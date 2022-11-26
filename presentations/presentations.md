@@ -1,30 +1,8 @@
+# [Twin prime conjecture]
 
-
-# What is the ___BEST___ GPU?
-
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4IxhYKdxEwVI8uvydFvxlVigTqao72dwClw&usqp=CAU)
-
-
-## Survey: Which GPU manufacturer do you prefer?
-
-[(Intel)] Intel
-[(Nvidia)] Nvidia
-[(AMD)] AMD
-
-
-## Prediction:
-
-![](https://1382778335.rsc.cdn77.org/wp-content/uploads/2019/12/Robotics-Ramp-Up-NVIDIA-Sets-Milestone-in-Delivering-Unified-Platform-for-Building-Autonomous-Machines.jpg)
-
-
-## Could this piece be the best one? 🤔
-
-![](https://i.ytimg.com/vi/7vOugWeemAs/maxresdefault.jpg)
-
-## Conclusion:
-
-
-![](https://st3.depositphotos.com/2228340/17567/i/600/depositphotos_175674846-stock-photo-management-strategy.jpg)
+## [The question are there infinitely many primes p such that p + 2 is also prime.]
+[First proof that prime numbers pair up into infinity](https://www.nature.com/articles/nature.2013.12989) [The bound has been reduced to 246 as of 14.04.2014]
+!?[Terry Tao, Ph.D. Small and Large Gaps Between the Primes](https://www.youtube.com/watch?v=pp06oGD4m00)
 
 # Question: What are Applications for the complex numbers?
 ![picture1](https://fxmedia.s3.amazonaws.com/articles/fractals_indikator-min.jpeg)
@@ -40,18 +18,6 @@ zeros of the Riemann-Zeta-Function visualised
 ## Fractals: Mandelbrot Set
 Mandelbrot set:
 !?[video1](https://www.youtube.com/watch?v=9M7dTmvJxwA)
-
-#Question: Will there ever be an end to this science? (computer science)
-
-!(image)[http://www.maryhillmuseum.org/2013/wp-content/uploads/2013/02/rodin_theThinker.jpg]
-
-
-Our opinion: surly not
-- it is getting more with the time you get in 
-- we aren't getting away from it 
-way's to end: find out everything
-              don't care about it/ don't need it anymore
----> both unlikely
 
 # Hilbert's Hotel
 
@@ -87,6 +53,18 @@ Aleph Null
 ## ARTE Video about Infinity
 !?[ARTE Video about Infinity](https://www.youtube.com/watch?v=C8pCekidqcQ)
 
+#Question: Will there ever be an end to this science? (computer science)
+
+!(image)[http://www.maryhillmuseum.org/2013/wp-content/uploads/2013/02/rodin_theThinker.jpg]
+
+
+Our opinion: surly not
+- it is getting more with the time you get in 
+- we aren't getting away from it 
+way's to end: find out everything
+              don't care about it/ don't need it anymore
+---> both unlikely
+
 # Question: Why is Python slow and ugly?
 > "Pythons can’t move very fast though—only about 1 mile per hour (1.6 kilometers per hour) on open ground." (https://animals.sandiegozoo.org/animals/python)
 They dont have legs, tires or jet propulsion...
@@ -109,8 +87,30 @@ In contrast, C++ compiles its files like this:
 More information on the topic can be found on the following website:
 https://www.geeksforgeeks.org/what-makes-python-a-slow-language/
 
-# [Twin prime conjecture]
 
-## [The question are there infinitely many primes p such that p + 2 is also prime.]
-[First proof that prime numbers pair up into infinity](https://www.nature.com/articles/nature.2013.12989) [The bound has been reduced to 246 as of 14.04.2014]
-!?[Terry Tao, Ph.D. Small and Large Gaps Between the Primes](https://www.youtube.com/watch?v=pp06oGD4m00)
+
+# What is the ___BEST___ GPU?
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4IxhYKdxEwVI8uvydFvxlVigTqao72dwClw&usqp=CAU)
+
+
+## Survey: Which GPU manufacturer do you prefer?
+
+[(Intel)] Intel
+[(Nvidia)] Nvidia
+[(AMD)] AMD
+
+
+## Prediction:
+
+![](https://1382778335.rsc.cdn77.org/wp-content/uploads/2019/12/Robotics-Ramp-Up-NVIDIA-Sets-Milestone-in-Delivering-Unified-Platform-for-Building-Autonomous-Machines.jpg)
+
+
+## Could this piece be the best one? 🤔
+
+![](https://i.ytimg.com/vi/7vOugWeemAs/maxresdefault.jpg)
+
+## Conclusion:
+
+
+![](https://st3.depositphotos.com/2228340/17567/i/600/depositphotos_175674846-stock-photo-management-strategy.jpg)
