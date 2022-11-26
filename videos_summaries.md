@@ -1,5 +1,5 @@
 # Videos about famous mathematicians and computer scientists
-gathered by students from the English course for BAI, MM, BWM, BM at TUBAF
+gathered by students from the English course for BAI, MM, BWM, BM at TUBAF.
 ## Ada Lovelace
 !?[](https://youtu.be/IZptxisyVqQ)
 ### Summary 1/2
