@@ -70,11 +70,11 @@ way's to end: find out everything
 They dont have legs, tires or jet propulsion...
 !?[Python moving like a snail](https://youtu.be/ELZTusWPetI?t=36)
 
-# And the actual question: Why is Python (the programming language, not the animal) slow and ugly?
+## And the actual question: Why is Python (the programming language, not the animal) slow and ugly?
 
 !?[Python vs C++ Speed comparison](https://www.youtube.com/watch?v=VioxsWYzoJk)
 
-# Explanation:
+## Explanation:
 Python is an interpreted language, unlike "better" languages (C++).
 
 ![${python interpreted language}](https://media.geeksforgeeks.org/wp-content/uploads/20210416224735/ss.png)
