@@ -3,8 +3,6 @@ gathered by students from the English course for BAI, MM, BWM, BM at TUBAF.
 ## Ada Lovelace
 !?[](https://youtu.be/IZptxisyVqQ)
 ### Summary 1/2
---{{1}}--
-This is a test for the text2speech
 {{1}}
 Ada Lovelace was born Augusta Ada Byron in London on December 10, 1815. She was the daughter of the romantic poet Lord Byron and Annabella Milbanke, who was strictly religious and possessed a fascination for analytics and logic. Her father left his wife in 1916 and died 11 years later in the Greek War of Independence. Thanks to her mother’s influence, Ada received an education rigorous in mathematics and science. She showed promise for the two fields, in which she was also very gifted. At the age of 12 she conceptualized a flying machine that could flap its wings. Until the Age of 16, Ada Lovelace almost permanently battled sickness and was temporarily disabled.
 In 1833, she attended a coveted party hosted by the famed inventor Charles Babbage, who would later be known as the father of the computer. She caught his eye because of her interest in one of his inventions and he remained her mentor and lifelong friend.
@@ -13,6 +11,9 @@ Her most important work was an article she published in Scientific Memoirs, an E
 Ada Lovelace died of uterine cancer on November 27, 1852 at the age of 36. She was buried in the Byron family vault inside the Church of St. Mary Magdalene in the English town of Hucknall.
 Ada’s contributions to modern computer science where basically discovered by Alan Turing in the 1940s. He was strongly influenced by Lovelace’s and Babbage’s works and later became known as the father of theoretical computer science and artificial intelligence. In the 1970s, the first standardized programming language was named “Ada” after Lovelace’s legacy. It is still used to this day in the operation of real-time systems in many fields.
 All in All, Ada’s vision far surpassed any of her contemporaries and laid the very foundations of modern computer programming science.
+
+--{{1}}--
+This is a test
 ### Summary 2/2
 work in progress...
 
