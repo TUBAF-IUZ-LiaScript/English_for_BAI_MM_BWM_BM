@@ -73,7 +73,7 @@ He also opposed the Vietnam war.
 !?[](https://www.youtube.com/watch?v=UTmsSG8OW5M)
 ### Summary
 {{1}}
-    One of Britain's greatest mathematicians and a hero who saved millions of lives with his scientific discoveries. We’re talking about Alan Turing who was born in London in 1912.
+    One of Britain's greatest mathematicians and a hero who saved millions of lifes with his scientific discoveries. We’re talking about Alan Turing who was born in London in 1912.
 
     In his early childhood he and his brother were in charge of a military man. This was a very agonizing part of his life and his father recognized that. As a consequence he sent Alan to the Sherborne School in Dorset in 1925. There he met Christopher Morcom, the first love of his life. In the following years they spent much time together discussing math and science. Alan's life was shattered into pieces when Christopher died of tuberculosis in 1930.
 
@@ -90,7 +90,7 @@ He also opposed the Vietnam war.
     To this day, Alan Turing's work in computing, artificial intelligence and other fields is considered to have been pioneering. But also during WWII he had a massive impact on the world by saving millions of lives and by shortening the war by roughly two years. Sadly he was driven to committing suicide because of the discrimination of gay people.
 
 --{{1}}--
-One of Britain's greatest mathematicians and a hero who saved millions of lives with his scientific discoveries. We’re talking about Alan Turing who was born in London in 1912.
+One of Britain's greatest mathematicians and a hero who saved millions of lifes with his scientific discoveries. We’re talking about Alan Turing who was born in London in 1912.
 In his early childhood he and his brother were in charge of a military man. This was a very agonizing part of his life and his father recognized that. As a consequence he sent Alan to the Sherborne School in Dorset in 1925. There he met Christopher Morcom, the first love of his life. In the following years they spent much time together discussing math and science. Alan's life was shattered into pieces when Christopher died of tuberculosis in 1930.
 Later in 1931 Turing left Sherborne and enrolled in the King's College in Cambridge and began studying math. There he earned his first degree and in 1936 he finished his masterpiece on Computable Numbers with an application to the Entscheidungsproblem. Part of his work was a thought experiment containing something called “Turing Machine”. With that he invented the basis for modern digital computers by proving how you could take the human process of computing numbers and create a machine capable of doing the same.
 In 1938 Turing began working in the British signals interception and code cracking branch. After the start of WWII in 1939 Turing was reassigned to Hut 8 at Bletchley Park and led a team tasked with decoding the German Enigma codes for naval transmission. The Enigma was a cipher machine invented by the Germans in WWI which only could be decoded by having a copy of the machine and the cipher key. In the summer of 1941 Turing and his team managed to develop a technique that broke the naval Enigma codes. This made it possible to locate German u-boats and to secure the supply of food to Britain and save the lives of millions. 
