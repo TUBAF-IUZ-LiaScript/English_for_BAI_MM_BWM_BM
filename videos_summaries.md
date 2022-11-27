@@ -1,11 +1,10 @@
---{{1}}--
-This is a test for the text2speech
-
 # Videos about famous mathematicians and computer scientists
 gathered by students from the English course for BAI, MM, BWM, BM at TUBAF.
 ## Ada Lovelace
 !?[](https://youtu.be/IZptxisyVqQ)
 ### Summary 1/2
+--{{1}}--
+This is a test for the text2speech
 {{1}}
 Ada Lovelace was born Augusta Ada Byron in London on December 10, 1815. She was the daughter of the romantic poet Lord Byron and Annabella Milbanke, who was strictly religious and possessed a fascination for analytics and logic. Her father left his wife in 1916 and died 11 years later in the Greek War of Independence. Thanks to her mother’s influence, Ada received an education rigorous in mathematics and science. She showed promise for the two fields, in which she was also very gifted. At the age of 12 she conceptualized a flying machine that could flap its wings. Until the Age of 16, Ada Lovelace almost permanently battled sickness and was temporarily disabled.
 In 1833, she attended a coveted party hosted by the famed inventor Charles Babbage, who would later be known as the father of the computer. She caught his eye because of her interest in one of his inventions and he remained her mentor and lifelong friend.
