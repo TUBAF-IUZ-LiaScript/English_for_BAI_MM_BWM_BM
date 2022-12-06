@@ -1,7 +1,9 @@
 # Videos about famous mathematicians and computer scientists
 gathered by students from the English course for BAI, MM, BWM, BM at TUBAF.
+
 ## Ada Lovelace
 !?[](https://youtu.be/IZptxisyVqQ)
+
 ### Summary 1/2
 {{1}}
 Ada Lovelace was born Augusta Ada Byron in London on December 10, 1815. She was the daughter of the romantic poet Lord Byron and Annabella Milbanke, who was strictly religious and possessed a fascination for analytics and logic. Her father left his wife in 1916 and died 11 years later in the Greek War of Independence. Thanks to her mother’s influence, Ada received an education rigorous in mathematics and science. She showed promise for the two fields, in which she was also very gifted. At the age of 12 she conceptualized a flying machine that could flap its wings. Until the Age of 16, Ada Lovelace almost permanently battled sickness and was temporarily disabled.
@@ -20,45 +22,72 @@ Her most important work was an article she published in Scientific Memoirs, an E
 Ada Lovelace died of uterine cancer on November 27, 1852 at the age of 36. She was buried in the Byron family vault inside the Church of St. Mary Magdalene in the English town of Hucknall.
 Ada’s contributions to modern computer science where basically discovered by Alan Turing in the 1940s. He was strongly influenced by Lovelace’s and Babbage’s works and later became known as the father of theoretical computer science and artificial intelligence. In the 1970s, the first standardized programming language was named “Ada” after Lovelace’s legacy. It is still used to this day in the operation of real-time systems in many fields.
 All in All, Ada’s vision far surpassed any of her contemporaries and laid the very foundations of modern computer programming science.
+
 ### Summary 2/2
-work in progress...
+{{1}}
+In the YouTube video "Ada Lovelace: The First Computer Programmer" handles the author, Biographics in this case, the Biography of previously mentioned Ada Lovelace. 
+"Biographics" starts off with Adas early childhood and mentions her mothers fanaticism to steer her in the exact opposite way of her father, who she saw as mentally ill because of his poetic mind. 
+The chosen course was therefore mathematics, in which Ada was gifted, and science in general. Lessons in self-control were given to her by her mother in which she was to sit still or lie down, unmoving, over a big amount of time. 
+Ada then battled sickness from the age of 14 to 17. After that she was presented at court and charmed them with her "brilliant mind"
+At one such party she learned of the Difference Engine, a calculator invented by the "father of the computer". Her enthusiasm in face of the machine earned herself a mentor and lifelong friend in Charles Babbage.
+After learning of the Analytical Engine from her mentor she dedicated little over a decade into studying it. Under this study falls the translation and commentation of a french article. 
+Ada Lovelace exceeded her mentor in realizing the full potential of the machine. She didn't stop with numbers but theorized that with the help of codes the engine could even process letters. 
+The following part of the video is about her personal life. She had a husband and three children after which she shifted her focus back to mathematics and science. Her health was, after a case of cholera, not as good as it used to be and she suffered under her medication with mood swings and hallucinations. 
+Ada flirted and later even started to gamble on horses until she died of cancer in 1852. After that she was buried next to her father.
+At last  "Biographics" talks about her legacy. 
+An example for that are Alan Turing, who was greatly influenced by her notes, and the high-order computer programming language Ada. Until today it is still used in many areas such as health care, transportation and many more.
+Furthermore there is an entire day in October named after her.
+
+--{{1}}--
+In the YouTube video "Ada Lovelace: The First Computer Programmer" handles the author, Biographics in this case, the Biography of previously mentioned Ada Lovelace. 
+"Biographics" starts off with Adas early childhood and mentions her mothers fanaticism to steer her in the exact opposite way of her father, who she saw as mentally ill because of his poetic mind. 
+The chosen course was therefore mathematics, in which Ada was gifted, and science in general. Lessons in self-control were given to her by her mother in which she was to sit still or lie down, unmoving, over a big amount of time. 
+Ada then battled sickness from the age of 14 to 17. After that she was presented at court and charmed them with her "brilliant mind"
+At one such party she learned of the Difference Engine, a calculator invented by the "father of the computer". Her enthusiasm in face of the machine earned herself a mentor and lifelong friend in Charles Babbage.
+After learning of the Analytical Engine from her mentor she dedicated little over a decade into studying it. Under this study falls the translation and commentation of a french article. 
+Ada Lovelace exceeded her mentor in realizing the full potential of the machine. She didn't stop with numbers but theorized that with the help of codes the engine could even process letters. 
+The following part of the video is about her personal life. She had a husband and three children after which she shifted her focus back to mathematics and science. Her health was, after a case of cholera, not as good as it used to be and she suffered under her medication with mood swings and hallucinations. 
+Ada flirted and later even started to gamble on horses until she died of cancer in 1852. After that she was buried next to her father.
+At last  "Biographics" talks about her legacy. 
+An example for that are Alan Turing, who was greatly influenced by her notes, and the high-order computer programming language Ada. Until today it is still used in many areas such as health care, transportation and many more.
+Furthermore there is an entire day in October named after her.
 
 ## Bertrand Russell 
 !?[](https://youtu.be/rSoO-bI8ax4)
 ### Summary
-    {{1}}
-    A (very) Brief History of Bertrand Russell
+{{1}}
+A (very) Brief History of Bertrand Russell
 
-    {{1}}
-    Bertrand Russel was a very influential mathematician and philosopher.
-    He was born as the youngest son of a British aristocrat family with very progressive views.
-    After his parents and sister died of illnesses, he and his brother Frank were raised by his grandmother, who was a devout christian, but otherwise very progressive.
-    Despite her insistence on raising him christian, Bertrand Russell became an atheist at 18.
+{{1}}
+Bertrand Russel was a very influential mathematician and philosopher.
+He was born as the youngest son of a British aristocrat family with very progressive views.
+After his parents and sister died of illnesses, he and his brother Frank were raised by his grandmother, who was a devout christian, but otherwise very progressive.
+Despite her insistence on raising him christian, Bertrand Russell became an atheist at 18.
 
-    {{1}}
-    Russell had suicidal thoughts in his youth, but his interest in learning gave him motivation to live. According to him, mathematics saved his life.
+{{1}}
+Russell had suicidal thoughts in his youth, but his interest in learning gave him motivation to live. According to him, mathematics saved his life.
 
-    {{1}}
-    He studied mathematics at Cambridge.
-    {{1}}
+{{1}}
+He studied mathematics at Cambridge.
+{{1}}
     
-    He went to Italy and met other important mathematicians.
+He went to Italy and met other important mathematicians.
 
-    {{1}}
-    Ludwig Wittgenstein was a student of his.
+{{1}}
+Ludwig Wittgenstein was a student of his.
 
-    {{1}}
-    During World War I, he was sent to prison for his pacifist views.
+{{1}}
+During World War I, he was sent to prison for his pacifist views.
 
-    {{1}}
-    He was originally excited about communism, but a trip to soviet Russia in 1920 changed his mind, though none of his travel companions shared his skepticism.
+{{1}}
+He was originally excited about communism, but a trip to soviet Russia in 1920 changed his mind, though none of his travel companions shared his skepticism.
 
-    {{1}}
-    He was married four times.
+{{1}}
+He was married four times.
 
-    {{1}}
-    After World War II, he argued that it would be more moral for the USA to fight a war against the USSR as long as only they had nuclear weapons, rather than when both countries would have them,  because it would mean fewer casualties. 
-    After it was known that the USSR had nuclear bombs too, he advocated for nuclear disarmment instead.
+{{1}}
+After World War II, he argued that it would be more moral for the USA to fight a war against the USSR as long as only they had nuclear weapons, rather than when both countries would have them,  because it would mean fewer casualties. 
+After it was known that the USSR had nuclear bombs too, he advocated for nuclear disarmment instead.
     He also opposed the Vietnam war.
 
 --{{1}}--
@@ -133,13 +162,27 @@ At age 39, Laplace married Marie-Charlotte de Courty de Romanges, an 18-year-old
 In 1799, Napoleon Bonaparte came to power in France using a coup, and appointed Laplace to be the minister of interior. It is however likely that he was only meant to be a placeholder until Napoleon gained full power, after which Laplace was replaced with Napoleon’s brother. Laplace’s involvement in politics made him lose many relationships, but he got fairly close to Napoleon. In the 1810s, the strong relationship between Napoleon and Laplace quickly descended after Laplace lost respect for Napoleon as a leader, and especially after Napoleon was enormously insensitive about Laplace’s daughter dying while giving birth to his granddaughter in 1813 – stating that this event should be irrelevant to Laplace because he is a mathematician. From this point on, he heavily supported the return of the Bourbon Dynasty and their Restoration, which directly opposed Napoleon.
 On March 5, 1827, Laplace died in Paris, likely due to natural causes, and was buried at the Père Lachaise Cemetery.
 ### Summary 2/2
-work in progress...
+still no access...
 
 ## Leonhard Euler 
 !?[](https://youtu.be/kEYUDWf_UpQ)
 
 ### Summary 
-work in progress...
+{{1}}
+Leonhard Euler was a Swiss mathematician born in Basel on April 15th 1707. The son of Paul Euler and Margaretha Brucker attended a school that didn’t include mathematical education. Therefore, he received it from his father and private lessons, as well as from studying mathematical textbooks on his own. His father, who wished for Leonhard to pursue the career of a minister (pastor), sent him to Basel University in 1720, Leonhard being only 13 years old. He got a general education there first and focused on more advanced  studies later. At Basel University, he met Johann Bernoulli, whose family Paul Bernoulli was friends with, and worked with him. In 1723, Leonhard finished his masters in philosophy,  but was discontent with it. Following that, he convinced his father that he would pursue mathematical studies. Leonhard finished university in 1726.
+{{1}}
+Euler got an offer from the St. Petersburg Academy, which he was recommended for by Daniel Bernoulli. After accepting the offer, he traveled there in 1727 and expected to start in a junior position, but was promoted to the department of mathematics. once again through recommendation. Until 1930, Euler was a lieutenant in the Russian navy alongside his teaching and research. He was finally able to leave after being promoted to professor of physics. In 1733, he was assigned a senior chair at the academy. Following that, he married Katharina Gsell, whom he had 13 children with, 5 of which survived infancy. By 1736 Euler had already published many articles and a textbook called “Mechanica”.
+{{1}}
+By 1740, Euler had been a renowned mathematician, so he eventually got an offer for a position at the University of Berlin by Frederik the Great himself, which he accepted. After traveling to Berlin in 1741, he stayed there for 25 years. During this time, Euler wrote his most renowned two works, the first being the  “introduction to infinitesimal analysis” (tl. from Latin), which was the foundation for mathematical analysis and also described the notation for functions that we use today.The second one was the “institutions of differential calculus”, the first complete and accurate text on the matter. In 1744, Euler was promoted to director of mathematics, giving him more responsibilities. Additionally, he became an advisor to the Prussian government, which negatively impacted his relationship with Frederik the Great.
+{{1}}
+In 1766, Euler got another offer from the St. Petersburg Academy, which he once again accepted. In his later life, Euler faced lots of struggles, one being his continuous loss of vision, eventually leading to blindness. Additionally, his house burnt down in 1771, destroying almost all of his properties. Another tragedy struck in 1773, when his wife of almost 40 years died. Nevertheless, Euler was more active than ever before during that period of time, publishing over half of his works in St. Petersburg with the help of his family and colleagues. EUler died in 1783 due to a brain hemorrhage, but his body of research was so vast that the St. Petersburg Academy kept publishing his studies until 50 years after his death. Some of Euler's most important contributions are Euler's identity, the gamma-function, the zeta-function and the solution to the Basler problem.
+
+--{{1}}--
+Leonhard Euler was a Swiss mathematician born in Basel on April 15th 1707. The son of Paul Euler and Margaretha Brucker attended a school that didn’t include mathematical education. Therefore, he received it from his father and private lessons, as well as from studying mathematical textbooks on his own. His father, who wished for Leonhard to pursue the career of a minister (pastor), sent him to Basel University in 1720, Leonhard being only 13 years old. He got a general education there first and focused on more advanced  studies later. At Basel University, he met Johann Bernoulli, whose family Paul Bernoulli was friends with, and worked with him. In 1723, Leonhard finished his masters in philosophy,  but was discontent with it. Following that, he convinced his father that he would pursue mathematical studies. Leonhard finished university in 1726.
+Euler got an offer from the St. Petersburg Academy, which he was recommended for by Daniel Bernoulli. After accepting the offer, he traveled there in 1727 and expected to start in a junior position, but was promoted to the department of mathematics. once again through recommendation. Until 1930, Euler was a lieutenant in the Russian navy alongside his teaching and research. He was finally able to leave after being promoted to professor of physics. In 1733, he was assigned a senior chair at the academy. Following that, he married Katharina Gsell, whom he had 13 children with, 5 of which survived infancy. By 1736 Euler had already published many articles and a textbook called “Mechanica”.
+By 1740, Euler had been a renowned mathematician, so he eventually got an offer for a position at the University of Berlin by Frederik the Great himself, which he accepted. After traveling to Berlin in 1741, he stayed there for 25 years. During this time, Euler wrote his most renowned two works, the first being the  “introduction to infinitesimal analysis” (tl. from Latin), which was the foundation for mathematical analysis and also described the notation for functions that we use today.The second one was the “institutions of differential calculus”, the first complete and accurate text on the matter. In 1744, Euler was promoted to director of mathematics, giving him more responsibilities. Additionally, he became an advisor to the Prussian government, which negatively impacted his relationship with Frederik the Great.
+In 1766, Euler got another offer from the St. Petersburg Academy, which he once again accepted. In his later life, Euler faced lots of struggles, one being his continuous loss of vision, eventually leading to blindness. Additionally, his house burnt down in 1771, destroying almost all of his properties. Another tragedy struck in 1773, when his wife of almost 40 years died. Nevertheless, Euler was more active than ever before during that period of time, publishing over half of his works in St. Petersburg with the help of his family and colleagues. EUler died in 1783 due to a brain hemorrhage, but his body of research was so vast that the St. Petersburg Academy kept publishing his studies until 50 years after his death. Some of Euler's most important contributions are Euler's identity, the gamma-function, the zeta-function and the solution to the Basler problem.
+
 
 ## Srinivasa Ramanujan
 !?[](https://www.youtube.com/watch?v=ixra6x1XdjE)
@@ -217,4 +260,14 @@ On the 24th february 2001 he lost at the age of 84 his long battle against Alzhe
 ## Al Khwarizmi
 !?[](https://youtu.be/StCEjfymM0o)
 ### Summary
-work in progress...
+{{1}}
+He lived in the 9.th century. That was the "golden age of science". He wrote the book of algebra that's a basic of today's calculation. With algorithms he also makes the calculation easier for the people of that time.
+The biggest time of his life he lived in Bagdad and was working there in the house of wisdom. It's a place where the knowledge where collected and scholars and scientists of all religions could work in their areas.
+He was part of the creating of the decimal system. 
+There are also some examples of the use of his work today like aerobatic, the building of an supersonic car or an calculation in the Roman system and the decimal system.
+
+--{{1}}--
+He lived in the 9.th century. That was the "golden age of science". He wrote the book of algebra that's a basic of today's calculation. With algorithms he also makes the calculation easier for the people of that time.
+The biggest time of his life he lived in Bagdad and was working there in the house of wisdom. It's a place where the knowledge where collected and scholars and scientists of all religions could work in their areas.
+He was part of the creating of the decimal system. 
+There are also some examples of the use of his work today like aerobatic, the building of an supersonic car or an calculation in the Roman system and the decimal system.
