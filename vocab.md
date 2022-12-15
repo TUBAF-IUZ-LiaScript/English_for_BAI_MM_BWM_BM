@@ -134,3 +134,74 @@ This works by having two circuits in this part. One is the primary circuit which
 
 A wire is used to transmit electrical energy.
 ![${wire}](https://www.hedgehogelectric.com/images/blog/What-Do-Electrical-Wire-Colors-Mean.jpg)
+
+# Data evaluation
+
+## Words (or the not so serious definition of some related buzz words)
+
+### deposit
+> storage location for arbitrary data, such as a disk or remote computer (aka. "the Cloud")
+
+### trend
+> term for an expectation about future results used in statistics
+
+### discovery
+> finding out about something
+
+### implementation
+> the way something was build from a reference concept
+
+### strategy
+> a procedure to approach a specific problem
+
+### efficiency
+> effort to result ratio
+
+### mining
+> searching for special entities in a large pool of data
+
+### entity
+> an unit or object with specific attributes and traits
+
+### pool
+> collection
+
+### yield
+> result after work, often related to efficiency
+
+### delivery model
+> idea about the way specific information is aquired
+
+### cloud-based storage
+> renting another persons harddrive
+
+### remote assets
+> data stored using a cloud-based storage solution
+
+### asset
+> literally any entity considered valuable
+
+### resources
+> anything can be a resource if it contains data
+
+### data set
+> somehow sorted or crossrelated data
+
+### benchmark
+> evaluation and comparison of work to time relationships
+
+### appropriate
+> something correct, eg. a specific tool
+
+### analytics
+> fancy maths that may or may not give correct or desired results.
+> Nobody understands that anyway. Not event the person who invented it.
+
+### outcome
+> similar to yield, but it may not be what you wanted
+
+### protocol
+> either the list of performed steps or the list of steps that have to be executed in order
+
+### statistical evidence
+> numbers don't lie! (at least if you trust them)
