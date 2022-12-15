@@ -7,4 +7,4 @@ Quick access to the videos and summaries on LiaScript:
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/ToniMahojoni/English_for_BAI_MM_BWM_BM/main/videos_summaries.md#1)
 
 Quick access to the vocab on LiaScript:
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/ToniMahojoni/English_for_BAI_MM_BWM_BM/main/vocab.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](hhttps://github.com/TUBAF-IUZ-LiaScript/English_for_BAI_MM_BWM_BM/blob/main/vocab.md)
