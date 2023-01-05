@@ -77,6 +77,32 @@ The power set of a set contains all subsets of it
 {{2}}
 ![](https://www.mathsisfun.com/sets/images/power-set.svg)
 
+# Basic operations in math
+{{1}}
+![](https://www.pinterest.de/pin/math-operations-chart--264516178084017425/)
+
+{{2}}
+·         Addition
+·         Subtraction
+·         Multiplication
+·         Division
+·         Nenner = denominator
+·         Zähler = numerator
+·         Bruch = fraction
+·         Ungleichung = inequality
+·         Gleichung = equation
+·         Lösung = solution
+·         Exponent
+·         Assoziativ = Associative
+·         Distributivgestz = distributive law
+·         Kommutativ = commutative
+·         Betrag = absolute value, ( modulus)
+·         Fakultät = factorial (!)
+·         Greater than = größer als (>)
+·         Kleiner als = less than (<)
+·         Potenz = x to the power of n (x^n)
+
+
 
 # Electronic parts
 The source for each part is wikipedia, with some school knowledge on top.
