@@ -161,8 +161,23 @@ Laplace later found out that there must be gravitational forces between the plan
 At age 39, Laplace married Marie-Charlotte de Courty de Romanges, an 18-year-old girl from a wealthy family, who he had a son and a daughter with. He and his family moved out of Paris during the Reign of Terror, during which a lot of people – including other scientists – were executed.
 In 1799, Napoleon Bonaparte came to power in France using a coup, and appointed Laplace to be the minister of interior. It is however likely that he was only meant to be a placeholder until Napoleon gained full power, after which Laplace was replaced with Napoleon’s brother. Laplace’s involvement in politics made him lose many relationships, but he got fairly close to Napoleon. In the 1810s, the strong relationship between Napoleon and Laplace quickly descended after Laplace lost respect for Napoleon as a leader, and especially after Napoleon was enormously insensitive about Laplace’s daughter dying while giving birth to his granddaughter in 1813 – stating that this event should be irrelevant to Laplace because he is a mathematician. From this point on, he heavily supported the return of the Bourbon Dynasty and their Restoration, which directly opposed Napoleon.
 On March 5, 1827, Laplace died in Paris, likely due to natural causes, and was buried at the Père Lachaise Cemetery.
+
 ### Summary 2/2
-still no access...
+{{1}}
+The Video ,,A (very) Brief History of Pierre-Simon Laplace” is about the mathematician LaPlace. 
+A few examples for his more famous works are Bayesian interpretation of probability, The dynamic theory of tides, The LaPlace transform and Mechanic celeste.
+He was born on March 23rd 1749, in Normandy. His Family was involved in agriculture until 1750. He studied theology at the university of Caen, until he gained interest in mathematics. A mentor of his recommended Laplace to a lecture position at  École militaire. From 1770 to 1771 he presented works, like on the extreme of curves, difference equations, integral calculus, research on the calculus of infinitely small differences and finite difference.
+LaPlace was very invested in mathematical physics too. (stability on the solar system, scalar potential)
+In 1785 he published the Laplace transform, which is an integral transform method that can substantially ease finding the solution to a linear ordinary differential equation. LaPlace was made a member of the committee which was the standardized weights and measures working on the metric system and advocating for a decimal base in 1790. Six years later he published exposition du systeme du monde which provides a survey of the solar system giving general information about phenomena without detail and the nebular hypothesis. 1799 Napoleon came to power in France, he appointed LaPlace temporarily to be the minister of the interior, however Laplace was just the placeholder for Napoleon's brother.
+He was involved in politics, and had a strong bond with Napoleon that lasted until the 1810s. Their companionship died, because Napoleon was insensitive towards Laplace around the time LaPlace´s daughter died. On March 5th 1827 Laplace died in Paris.
+
+--{{1}}--
+The Video ,,A (very) Brief History of Pierre-Simon Laplace” is about the mathematician LaPlace. 
+A few examples for his more famous works are Bayesian interpretation of probability, The dynamic theory of tides, The LaPlace transform and Mechanic celeste.
+He was born on March 23rd 1749, in Normandy. His Family was involved in agriculture until 1750. He studied theology at the university of Caen, until he gained interest in mathematics. A mentor of his recommended Laplace to a lecture position at  École militaire. From 1770 to 1771 he presented works, like on the extreme of curves, difference equations, integral calculus, research on the calculus of infinitely small differences and finite difference.
+LaPlace was very invested in mathematical physics too. (stability on the solar system, scalar potential)
+In 1785 he published the Laplace transform, which is an integral transform method that can substantially ease finding the solution to a linear ordinary differential equation. LaPlace was made a member of the committee which was the standardized weights and measures working on the metric system and advocating for a decimal base in 1790. Six years later he published exposition du systeme du monde which provides a survey of the solar system giving general information about phenomena without detail and the nebular hypothesis. 1799 Napoleon came to power in France, he appointed LaPlace temporarily to be the minister of the interior, however Laplace was just the placeholder for Napoleon's brother.
+He was involved in politics, and had a strong bond with Napoleon that lasted until the 1810s. Their companionship died, because Napoleon was insensitive towards Laplace around the time LaPlace´s daughter died. On March 5th 1827 Laplace died in Paris.
 
 ## Leonhard Euler 
 !?[](https://youtu.be/kEYUDWf_UpQ)
@@ -187,14 +202,8 @@ In 1766, Euler got another offer from the St. Petersburg Academy, which he once 
 ## Srinivasa Ramanujan
 !?[](https://www.youtube.com/watch?v=ixra6x1XdjE)
 
-### Summary 
-missing...
-
 ## James Gosling
 !?[](https://youtu.be/0ocGHrJDdIU)
-
-### Summary 
-missing...
 
 ## Claude Shannon - "The Father of the Information Age"
 !?[](https://youtu.be/SvcvUNBcZP0)
