@@ -5,8 +5,10 @@
     --{{1}}--
 Once upon a time there was a kingdom called Megburry that was ruled by its royal family. On the throne the king himself, from time to time represented by his beloved wife, the queen. Their son, a young man with big plans visited various places in the kingdom to support the folk with advice and knowledge, a good man. In the very south of the kingdom, where otherwise only the shepherds brought their cattle, to graze them. In those badlands, hidden by tall hills a lonely tower built from stone can be found. This tower was home to one of the most famous authors of the kingdom, a man of incredible wisdom, a scholar with mindbending cognitive power. The calculator should be his name for which he was prisen all around the world.
 
+    --{{2}}--
 One day, when the price came to the area where the tower was he took the opportunity and knocked at the door. Christmas was around the corner and the the king himselve ordered a show on Christmas eve that was worth the brilliance of his majesty.
 
+    --{{3}}--
 The moment the prince knocked on the outstanding door of the calculator that was eleborately decorated with gears, mystical roots and even some in the evening sun bright shining juwels, he heard a mechanical ticking and clicking noise, that seemed to rise slowly straight up to the top of the enormous building. A few minutes after the noise fell silent, the door was opened from inside with an energetic movement. Out of the dark room behind it a man stepped out. He was one head smaller than the price and so latter could take a look at a man around 60 years with white hair forming a ring around his semi bald scalp. He wore a leather skirt and a belt that held tools the prince had never seen before. "come in!" said the calculator, obviously remembering the young prince from the last scientific event at the palace. Together they planned a firework for Christmas and with the help of the calculator they crated a real mathematical masterpiece. In curves of sinus and cosinus, in approximations to the outlines of the city and from graphs with the highest increase to the biggest dicrease. A work of art, that nobody in the kingdom could have seen any similar to. The Christmas feast was a great success. 
 
 ## Story by Helena Pfuetzer
@@ -19,14 +21,18 @@ For a long time, Santa hadn't personally visited every household, instead delega
 "I think I might need to finally use a computer for this." he sighed. "There is no other way I can keep track of everything. I need to digitalize my records in order to organize them."
 Unfortunately, Santa had no idea how to operate a computer, having never needed one in the past, and he also didn't know whether there was a software program suited for his task, so he decided to hired a computer scientist to set up the system.
 
+    --{{2}}--
 The programmer, who also happened to have a degree in business administration, immediately realized that the only way to distribute all of the presents with the available workforce would be to increase efficiency by making sure there were no redundant travel routes.
 
+    --{{3}}--
 Santa thought about all the times his reindeers had been completely exhausted by senselessly zig-zagging around on their way to the different households. His assistants often had the same problem. Sometimes, on his way to the next family, he would even cross paths with one of them, seeing them visit a home, that would have fit perfectly fit into his own route, and be annoyed at himself for not having spotted this in his earlier planning, thus burdening his elves with unnecessary work.
 He agreed that it would be great if a computer could ensure that this sort of thing didn't happen, so he told the computer scientist to go ahead with his idea.
 
+    --{{4}}--
 "Essentially, the algorithm needs to implement a surjective function from the set of available presents to the set of eligible children. It needs to optimize this function for minimal travel distances and travel times." the programmer told him.
 Santa did not understand exactly what he meant, but thought it sounded sensible.
 
+    --{{5}}--
 In the following weeks, the computer scientist worked very hard on his project and finished it just in time for christmas. Santa Claus printed out the lists with the presents, children, housholds, and travel routes, gave them to his employees, and everyone went on their way.
 The distribution of presents worked perfectly, and even though there were more presents to distribute this year than ever before, they were finished earlier than the year before, feeling less exhausted than usual.
 "This is the best decision I ever made!" declared Santa.
@@ -213,7 +219,6 @@ Refine
 
     --{{2}}--
 Story:
-{
 "story": "It was Christmas Eve and Mary was working late at the workshop, trying to finish
 up her latest invention. She was an engineer, and she loved nothing more than tinkering with
 gadgets and machines. As she worked, she couldn't help but think about all the ways that
@@ -237,7 +242,6 @@ behind her. As they walked home through the snowy streets, Mary couldn't help bu
 grateful for all the technology that had helped her achieve her goals. And she knew that with
 a little more hard work and a lot of holiday cheer, she would be able to refine her engine and
 make it even better in the coming year."
-}
 
 ## Christmas story of Spector
 
@@ -315,49 +319,37 @@ So merry Christmas and a happy new year!
     --{{1}}--
 We note a year after the invention of computers,
 furthermore, today is the 24th of December and – most important! — Friday.
-
 Our dear protagonist sits in a large and empty place, only illuminated by the blueish light of the monitor and a small desk lamp.
 All around is a labyrinth of shoulder-high space separators.
 It is already dark outside, the cities lights paint the sky in a dark orange.
-
 This last commit and our protagonist will also leave for the holidays.
 But as one can imagine, the work is as complicated as it always is when you are about to finish.
 Finally, here it is, but wait! Oh, no!
 Patches have to be live tomorrow, and testing won't happen today anymore.
 Straight to production, it is then!
-
 My dear audience, never, never ever, deploy to prod on Fridays!
-
 A few minutes later, our protagonist is on the way home, suddenly, darkness.
 Darkness everywhere around. No sound, too!
-
 No streetlight, no billboard, no display
 no window, no festive decoration
 is shining anymore.
-
 Well, if you work on a cities digitalized electricity infrastructure,
 you should avoid such mistakes even more …
-
 But now it is too late, no way to fix this without a working machine.
 Manpower is needed to get the net back up.
 It starts snowing.
 For the first time this year, and so continues our pitiful protagonist on the way home.
-
 Meanwhile, the people around in the houses have remembered the old candles still lying around in some forgotten corner.
 Stearin for the rescue!
-
 And there, a light! Now two, soon three!
 Infrared rays fall on long forgotten memories of Christmas eves years ago.
 There is new warmth here in the cold of winter.
 Without the ongoing distraction by mobile handheld devices, “smart” and stupid IOT devices,
 they become clear again, the important things in life.
-
 While the outside around our protagonist turns into a winter wonderland, a bug induced miracle is going on.
 The forced digital detox is doing its work.
-
 The next morning, everything around is painted white by dihydrogenmonoxide crystals.
 Soon the outtake's being fixed.
-
 What about our protagonist?
 Legends tell the following:
   - Our protagonist did spend the night with long not seen friends.
@@ -367,11 +359,8 @@ Legends tell the following:
 Does it matter?
 In the end, “protagonist” may not have been such a great implementation of a plot driving element.
 However, I, the narrator, am not owing anything to you!
-
 Moral of the story? Don't deploy to production on Fridays, unless it is Friday the 24th of December.
-
 This is not meant to encourage willful sabotage of critical infrastructure!
-
 Well then, merry Christmas everyone and a happy new year!
 
 ## Timmy’s last Christmas wish
