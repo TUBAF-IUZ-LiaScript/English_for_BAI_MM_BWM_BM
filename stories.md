@@ -1,38 +1,39 @@
 # Christmas stories
 
 ## Story by Jonas Peuker and Lars Wunderlich
-{{1}}
+
+    --{{1}}--
 Once upon a time there was a kingdom called Megburry that was ruled by its royal family. On the throne the king himself, from time to time represented by his beloved wife, the queen. Their son, a young man with big plans visited various places in the kingdom to support the folk with advice and knowledge, a good man. In the very south of the kingdom, where otherwise only the shepherds brought their cattle, to graze them. In those badlands, hidden by tall hills a lonely tower built from stone can be found. This tower was home to one of the most famous authors of the kingdom, a man of incredible wisdom, a scholar with mindbending cognitive power. The calculator should be his name for which he was prisen all around the world.
-{{1}}
+
 One day, when the price came to the area where the tower was he took the opportunity and knocked at the door. Christmas was around the corner and the the king himselve ordered a show on Christmas eve that was worth the brilliance of his majesty.
-{{1}}
+
 The moment the prince knocked on the outstanding door of the calculator that was eleborately decorated with gears, mystical roots and even some in the evening sun bright shining juwels, he heard a mechanical ticking and clicking noise, that seemed to rise slowly straight up to the top of the enormous building. A few minutes after the noise fell silent, the door was opened from inside with an energetic movement. Out of the dark room behind it a man stepped out. He was one head smaller than the price and so latter could take a look at a man around 60 years with white hair forming a ring around his semi bald scalp. He wore a leather skirt and a belt that held tools the prince had never seen before. "come in!" said the calculator, obviously remembering the young prince from the last scientific event at the palace. Together they planned a firework for Christmas and with the help of the calculator they crated a real mathematical masterpiece. In curves of sinus and cosinus, in approximations to the outlines of the city and from graphs with the highest increase to the biggest dicrease. A work of art, that nobody in the kingdom could have seen any similar to. The Christmas feast was a great success. 
 
 ## Story by Helena Pfuetzer
 
-{{1}}
+    --{{1}}--
 One day in November, Santa Claus was looking at his list of wishlists, completely exasperated. "It's getting more every year! Where are all those lists coming from?" 
 "The world population just reached 8 billion. There just are more children than there used to be." one of his elves informed him.
 "But there are so many presents and so many adresses! How are we supposed to figure out the logistics?"
 For a long time, Santa hadn't personally visited every household, instead delegating this task to an ever-growing army of assistants, substitutes and elves. But administrating it all was getting more and more complicated every year.
 "I think I might need to finally use a computer for this." he sighed. "There is no other way I can keep track of everything. I need to digitalize my records in order to organize them."
 Unfortunately, Santa had no idea how to operate a computer, having never needed one in the past, and he also didn't know whether there was a software program suited for his task, so he decided to hired a computer scientist to set up the system.
-{{1}}
+
 The programmer, who also happened to have a degree in business administration, immediately realized that the only way to distribute all of the presents with the available workforce would be to increase efficiency by making sure there were no redundant travel routes.
-{{1}}
+
 Santa thought about all the times his reindeers had been completely exhausted by senselessly zig-zagging around on their way to the different households. His assistants often had the same problem. Sometimes, on his way to the next family, he would even cross paths with one of them, seeing them visit a home, that would have fit perfectly fit into his own route, and be annoyed at himself for not having spotted this in his earlier planning, thus burdening his elves with unnecessary work.
 He agreed that it would be great if a computer could ensure that this sort of thing didn't happen, so he told the computer scientist to go ahead with his idea.
-{{1}}
+
 "Essentially, the algorithm needs to implement a surjective function from the set of available presents to the set of eligible children. It needs to optimize this function for minimal travel distances and travel times." the programmer told him.
 Santa did not understand exactly what he meant, but thought it sounded sensible.
-{{1}}
+
 In the following weeks, the computer scientist worked very hard on his project and finished it just in time for christmas. Santa Claus printed out the lists with the presents, children, housholds, and travel routes, gave them to his employees, and everyone went on their way.
 The distribution of presents worked perfectly, and even though there were more presents to distribute this year than ever before, they were finished earlier than the year before, feeling less exhausted than usual.
 "This is the best decision I ever made!" declared Santa.
 
 ## Story by Benjamin Kunsch
 
-{{1}}
+    --{{1}}--
 Once upon a time, during a great recession, where the energy prices were high and the food storages
 were empty, Santa Claus had his annual task of delivering Chrsitmas presents to all the children. A
 task that he usually fulfilled with ease, as his experience with his flying electric sleigh made the
@@ -71,7 +72,7 @@ problem is content from another story...
 
 ## The math riddles of Christmas and the extraordinary boy who could solve them
 
-{{1}}
+    --{{1}}--
 Once upon a time there was an old man who loved math very much. He would study it all day
 long, and every year at Christmas time, he made up some tough math riddles and gave them
 to children. For example, he asked them to solve partial differential equations or to examine
@@ -100,7 +101,7 @@ children till the end of his life.
 
 ## Christmas presents
 
-{{1}}
+    --{{1}}--
 The calendar says 17th december. I think it's time to get some christmas presents. In the
 advertisement I saw the perfect one. My little sister will be happy and thankful the whole next
 year for it.
@@ -158,7 +159,7 @@ No present by it? Ahhh... Oh man... Damn!... Looks like... next try tomorrow...
 
 ## Story by Gideon Hoffmann
 
-{{1}}
+    --{{1}}--
 At Christmas, not that many years ago, a mathematician decided to solve a very complex Christmas
 problem once and for all. The problem he faced was very serious: what he searched was nothing less
 than the ultimate placement of the various presents under the Christmas tree. It shouldn’t be too
@@ -187,7 +188,7 @@ finally sleep again.
 
 ## A Christmas story
 
-{{1}}
+    --{{1}}--
 On a snowy Christmas eve people normally would have fun and spent time with the family and loved ones.
 This time however one family could not do the usual Christmas stuff. Because the two sons of the family had math homework. Nevertheless, it was no ordinary math homework. 
 The youngest son despaired of his homework at the dining table. His father walked inside the room and questioned his son’s behaviour. The son then replies to him, “Equations no longer make sense. And my calculator doesn't give the correct answers for addition, subtraction, multiplication and division. Or since when is the sum of two natural numbers something negative?”
@@ -202,7 +203,7 @@ Santa Claus distributed the gifts to the family.  Finally, the family could enjo
 
 ## Story by Alia Blechschmidt
 
-{{1}}
+    --{{1}}--
 Technical Vocabulary used:
 Technology
 Transmission
@@ -210,7 +211,7 @@ Engine
 Balance
 Refine
 
-{{2}}
+    --{{2}}--
 Story:
 {
 "story": "It was Christmas Eve and Mary was working late at the workshop, trying to finish
@@ -240,7 +241,7 @@ make it even better in the coming year."
 
 ## Christmas story of Spector
 
-{{1}}
+    --{{1}}--
 It was Christmas Eve and the air was filled with excitement and cheer. All the children
 in town were preparing for Santa's arrival, while the adults were busy decorating their
 houses and setting up the Christmas tree.
@@ -285,7 +286,7 @@ Merry Christmas!
 
 ## Instructions of making a Christmas wreath
 
-{{1}}
+    --{{1}}--
 Dear diary,
 today I want to share our Christmas tradition with you:
 Instructions of making a Christmas wreath
@@ -311,7 +312,7 @@ So merry Christmas and a happy new year!
 
 ## Ones Chrismas Story
 
-{{1}}
+    --{{1}}--
 We note a year after the invention of computers,
 furthermore, today is the 24th of December and – most important! — Friday.
 
@@ -375,7 +376,7 @@ Well then, merry Christmas everyone and a happy new year!
 
 ## Timmy’s last Christmas wish
 
-{{1}}
+    --{{1}}--
 Once, there was little Timmy. Timmy seemingly was an ordinary child, but deep inside he
 had great ambitions. As everyone knows, Santa Claus has billions of cameras hidden all
 around the world to know which children were good that year. Timmy needed to be a very
