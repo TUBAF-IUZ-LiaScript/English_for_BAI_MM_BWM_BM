@@ -493,3 +493,120 @@ After the message ends, a sequence of blue and red lights will be shown in order
 - [ [X] [ ] [ ] [ ] ] `.... . .-.. .-.. ---`
 - [ [ ] [X] [ ] [ ] ] `... --- ...`
 
+
+# Waves
+
+<div id="matrix-experiment">
+<wokwi-neopixel-matrix pin="6" cols="11" rows="1"></wokwi-neopixel-matrix>
+<span id="simulation-time"></span>
+</div>
+
+```cpp             Automata
+#include "FastLED.h"
+
+#define DATA_PIN 6
+#define BRIGHTNESS 180
+#define NUM_LEDS 11
+#define WAVECOUNT NUM_LEDS/3+2
+
+CRGB leds[NUM_LEDS];
+int leds_num[NUM_LEDS];
+
+void setup() {  
+  FastLED.addLeds<NEOPIXEL, DATA_PIN>(leds, NUM_LEDS);
+  FastLED.setBrightness(BRIGHTNESS);
+  Serial.print("Test");
+}
+
+void MoveWave(int pos,int color,int count){
+	if (pos<NUM_LEDS){
+		switch(color) {
+			case 0: leds[pos] = CRGB::Purple; break;
+			case 1: leds[pos] = CRGB::Blue; break;
+			case 2: leds[pos] = CRGB::Yellow; break;
+			case 3: leds[pos] = CRGB::Green; break;
+			case 4: leds[pos] = CRGB::Red; break;
+		}
+        leds_num[pos] = color+1;       
+	}
+	if(pos>2) {
+		if (leds_num[pos-3] == color+1) {
+		leds[pos-3] = CRGB::Black;
+        leds_num[pos-3] = 0;
+		}
+	}		
+}
+
+void loop() { 
+    int waves[WAVECOUNT] = {-1};
+    int colors[WAVECOUNT] = {0};
+    int count = 0,color = 0;
+    while (count < (NUM_LEDS)*5) {
+        for (int i = 0; i < WAVECOUNT; i++) {
+            if (waves[i] > -1 || WAVECOUNT == 1){
+                MoveWave(waves[i],colors[i],count);
+                waves[i]++;
+            }
+            if (waves[i] == NUM_LEDS+3) {
+                waves[i] = -1;
+                count++; 
+            }
+        }
+
+        for (int i = 0; i < WAVECOUNT; i++) {
+            if (waves[i] == -1) {
+                int min = NUM_LEDS + 3;
+                for (int j = 0; j < WAVECOUNT; j++) {
+                    if (j != i && waves[j] < min && waves[j] > -1) {
+                        min = waves[j];
+                    }
+                }
+                if (min >= NUM_LEDS + 2 - count/5 || min == -1) {
+                    waves[i] = 0;
+                    color = (color + 1) % 5;
+                    colors[i] = color;
+                }
+            }
+        }
+        FastLED.show();
+        delay(50);
+    }
+    for (int i = 0; i < NUM_LEDS; i++) {
+        leds[i] = CRGB::White;
+    }
+    FastLED.show();
+    delay(2000);
+    for (int i = 0; i < NUM_LEDS; i++) {
+        leds[i] = CRGB::Black;
+    }
+    FastLED.show();
+    delay(1000);
+}
+```
+@AVR8js.sketch(matrix-experiment)
+
+## Video
+
+!?[video](https://cdn.discordapp.com/attachments/1103728015013322933/1103728271729905724/Waves.mp4)
+
+## Description
+
+{{1}}
+>**What does it do?**  
+>
+>Simulate a wave propagating from left to right. After 5 times a wave reaches the end the distance between each wave gets smaller until they overlap. After this the LEDs turn white and the program restarts.
+
+{{2}}
+>**How does it work?**  
+>
+>For each wave 3 LEDs are turned on and move one position forward by turning on the LED in front of the wave and turning off the last LED.
+
+{{3}}
+>**How we did it?**  
+> 
+>First creating a function which is used for moving a specific wave forward. After that for having multiple waves the position of each wave is saved in an array to loop over each wave to use the move function. To manage having diffrent amounts of visible waves at diffrent times a wave gets the value -1 to make sure it is not moving
+
+{{4}}
+>**What we could add?**  
+>
+>To make the ending with white lights less abrupt we could change the colors of the waves gradually to white, which means the colors would get brighter the closer the waves get. Of course the color at the end don't has be white. It could also approach a diffrent color. The end color could be changed after every run.
