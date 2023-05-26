@@ -1,5 +1,3 @@
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/English_for_BAI_MM_BWM_BM/main/arduino.md#1)
-
 <!--
 
 author: Toni Sand
@@ -10,6 +8,8 @@ import: https://raw.githubusercontent.com/liaTemplates/AVR8js/main/README.md
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/English_for_BAI_MM_BWM_BM/main/arduino.md#1)
+
 # Demonpie bring Harm
 
 !?[](https://www.youtube.com/watch?v=zmtYqTjcFYI)
@@ -17,7 +17,7 @@ import: https://raw.githubusercontent.com/liaTemplates/AVR8js/main/README.md
 ## Simulation
 
 <div id="matrix-experiment">
-<wokwi-neopixel-matrix pin="6" cols="9" rows="9"></wokwi-neopixel-matrix>
+<wokwi-neopixel-matrix pin="6" cols="12" rows="1"></wokwi-neopixel-matrix>
 <span id="simulation-time"></span>
 </div>
 
