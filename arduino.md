@@ -610,3 +610,111 @@ void loop() {
 >**What we could add?**  
 >
 >To make the ending with white lights less abrupt we could change the colors of the waves gradually to white, which means the colors would get brighter the closer the waves get. Of course the color at the end don't has be white. It could also approach a diffrent color. The end color could be changed after every run.
+
+# Gambling
+- we changed a few words of the code, that was given to us a few lessons prior
+- but the different outcome is stil very noticeable
+- for example:
+> we changed the colours of the light effect
+
+> we shortend the time sequence of the light effects
+
+> the brightness change is the least noticeable difference
+
+- because we just changed a few words, it didn't take a long time to code
+
+### Which direction could we take it to?
+- Maybe you could use the lights for a disco
+
+### difficulties
+- it was diffcult to transfer the code to the Arduino 
+
+### Video:
+
+!?[](https://drive.google.com/file/d/12_PqOHNYVmcBGS2c6I1Ejy_44iTPGnKs/view?usp=share_link)
+
+### Simulation
+
+<div id="matrix-experiment">
+<wokwi-neopixel-matrix pin="6" cols="11" rows="1"></wokwi-neopixel-matrix>
+<span id="simulation-time"></span>
+</div>
+
+<br>
+
+```cpp Gambling
+#include "FastLED.h"
+#define DATA_PIN 6
+#define BRIGHTNESS 180
+#define NUM_LEDS 11
+
+CRGB leds[NUM_LEDS];
+
+#include "FastLED.h"
+
+#define DATA_PIN 6
+
+#define BRIGHTNESS 200
+
+#define NUM_LEDS 9
+
+int i = 0;
+
+void setup() {
+    FastLED.addLeds<NEOPIXEL, DATA_PIN>(leds,NUM_LEDS);
+    FastLED.setBrightness(BRIGHTNESS);
+}
+
+void loop() {
+    for (i=0; i < NUM_LEDS-7; i++)
+    {
+        for (int j = 0; j < 2; j++)
+        {
+            leds[i] = CRGB::Red;
+            FastLED.show();
+            delay(250);
+            leds[i] = CRGB::Blue;
+            FastLED.show();
+            delay(250);
+        }
+        leds[i] = CRGB::Purple;
+        FastLED.show();
+    }
+for (; i < NUM_LEDS; i++)
+    {
+        for (int j = 0; j < 2; j++)
+         {
+            leds[i] = CRGB::Pink;
+            FastLED.show();
+            delay(250);
+            leds[i] = CRGB::White;
+            FastLED.show();
+            delay(250);
+         }
+        leds[i] = CRGB::Blue;
+        FastLED.show();
+        if(i==NUM_LEDS-4)
+         {
+            for (int n = 0; n < NUM_LEDS-5; n++)
+             {
+                leds[n] = CRGB::Green;
+                FastLED.show();
+             }
+         }
+         else if(i==NUM_LEDS-3)
+          {
+            for (int n = 0; n < NUM_LEDS; n++)
+             {
+                leds[n] = CRGB::Black;
+                FastLED.show();
+             }
+             delay(1000);
+          }
+    }
+    for (int j = 0; j < NUM_LEDS; j++)
+     {
+        leds[j] = CRGB::White;
+        FastLED.show();
+     }
+}
+```
